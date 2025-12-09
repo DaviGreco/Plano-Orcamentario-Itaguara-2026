@@ -7,9 +7,6 @@
 
 > Um dashboard interativo gerado via Python para visualização clara e transparente das despesas municipais planejadas para o ano de 2026.
 
-![Preview do Dashboard](screenshot.png)
-*(Exemplo da visualização gerada pelo script)*
-
 ## 🎯 Sobre o Projeto
 
 Este projeto tem como objetivo transformar dados orçamentários brutos (normalmente encontrados em PDFs técnicos e extensos) em uma interface visual, interativa e acessível para qualquer cidadão.
